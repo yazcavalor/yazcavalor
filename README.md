@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 [![GitHub Stars](https://img.shields.io/github/stars/yourname?color=bd5eff&logo=github&style=for-the-badge&label=TOTAL+STARS)](https://github.com/yourname)
 [![Years Badge](https://badges.pufler.dev/years/yourname?style=for-the-badge&color=bd5eff&logo=github)](https://github.com/yourname)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=BD5EFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;AI+%26+Robotics+Engineer;Digital+Experience+Creator;Building+Tomorrow's+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=BD5EFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Front-End+Developer;AI+%26+Robotics+Engineer;Digital+Experience+Creator;Building+Tomorrow's+Technology)](https://git.io/typing-svg)
 
 </div>
 
